@@ -34,7 +34,7 @@ public class Entity {
         return this.resource;
     }
 
-    public void setResource(newResource){
+    public void setResource( String newResource){
         this.resource = newResource;
     }
 
